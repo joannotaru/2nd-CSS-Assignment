@@ -1,0 +1,43 @@
+body{
+    background-color: darkred; 
+}
+h1{
+    font-size: 90px; color: white; text-align: center; font-family: 'Arial Narrow';
+}
+h3{
+    text-align: center; color: white; font-family: 'Arial Narrow';
+}
+ul{
+    font-family: 'Arial'; color: white; font-size: 18px; text-align: center; list-style-position: inside;
+}
+p{
+    font-family: 'Arial'; color: white; font-size: 17px; display: inline-block; text-align: left;
+}
+h2{
+    color: white; text-align: center; font-family: 'Arial';
+}
+.parent{
+     position: relative; top: 0; left:0; text-align: justify; width: 100%;
+}
+.img1{
+    position: relative; width: 100%; ; height: 100%; float: right; filter: drop-shadow(0 0 0 maroon); opacity: 0.4;
+}
+.img2{
+    position: absolute; top: 0px; left: 90px; right: 10px;   width: 80%; height: 80%; 
+}
+.mydiv{
+    text-align: center; 
+}
+.myul{
+    display: inline-block; text-align: left; 
+}
+.myil{
+    text-align: left;
+}
+#cls{
+    text-align: center;
+}
+#doc{
+    position: relative; color: white; display: block; bottom: 8px; left: 16px; font-family: 'Arial';
+}
+
